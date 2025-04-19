@@ -1,20 +1,28 @@
-<!-- Header Banner -->
+<!-- Banner/Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Fahim+Ahamed;Cyber+Security+Enthusiast+%26+Developer;I+Code+%26+Hack+Things;Welcome+to+My+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahim%20Ahamed&fontSize=50&fontColor=ffffff" alt="Banner" />
 </p>
 
+# Fahim Ahamed - Cyber Security Enthusiast & Developer
+
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20AM%20A-BANGLADESHI%20PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+  <img src="https://img.shields.io/badge/I%20Am%20A%20BANGLADESHI-PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 </p>
 
 <h3 align="center">
-  <img src="https://media.tenor.com/zD6PUks0xN0AAAAi/loading-throbber.gif" width="30" />
-  WELCOME TO MY GITHUB
-  <img src="https://media.tenor.com/zD6PUks0xN0AAAAi/loading-throbber.gif" width="30" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Welcome To MY GiTHub
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 <p align="center">
-  <img src="https://github.com/fahimahamed1/fahimahamed1/assets/placeholder/banner-placeholder.png" alt="banner" width="100%" />
+  <img align="center" alt="line" src="line-1.svg">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=FAhim-Ahamed;It's+Not+Just+My+Name;It's+A+Brand">
+  </a>
+  <br>
+  <img align="center" alt="line" src="line-1.svg">
 </p>
 
 ---
@@ -107,4 +115,7 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
   <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" alt="Thanks!" />
   <br>
   <b>Thanks for visiting! Keep hacking 🔐</b>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:017e40,100:ff0000&height=100&section=footer"/>
 </p>
