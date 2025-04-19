@@ -1,34 +1,29 @@
-<p align="center">
-  <img src="badge.png" alt="I Am A BANGLADESHI PROGRAMMER">
-</p>
-
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
 <h3 align="center">
   <img src="gif.gif" width="30">
-  Welcome To MY GiTHub
+ Welcome To MY GiTHub
   <img src="gif.gif" width="30">
 </h3>
-
-<p align="center">
-  <img src="line-1.svg" alt="Decorative Line">
-</p>
-
-<p align="center">
-  <img src="typing.svg" alt="Typing Effect: SHAMIM-CYBER - It's Not Just My Name, It's A Brand">
-</p>
-
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="line-1.svg">
  
-<h3 align="center"> TERMUX HACKER SHAMIM </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Fahim Ahamed;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+ 
+</p>
+ 
+<img align="center" alt="line" src="line-1.svg">
+ 
+<h3 align="center"> Fahim Ahamed in Cyber Security </h3>
  
 
 
 
 ![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+![Alt text](cybertext.gif)
 
-- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+- ![Alt text](Developer.gif)
 
 <!--
 **SHAMIM-CYBER/SHAMIM-CYBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
