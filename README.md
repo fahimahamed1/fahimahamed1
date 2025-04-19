@@ -8,7 +8,7 @@
  
 <img align="center" alt="line" src="line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Fahim Ahamed;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Fahim-Ahamed;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
  
 </p>
  
