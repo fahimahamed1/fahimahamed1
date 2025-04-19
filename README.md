@@ -25,13 +25,7 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
 - 💡 Exploring malware analysis, reverse engineering & web app pentesting.
 - 👯 Open to collaborate on secure apps & community security tools.
 - 💬 Ask me about Cyber Security, DevSecOps, or Full-Stack Development.
-- 📫 Reach me at: [Facebook](https://www.facebook.com/devilsnigdho.00) | [GitHub](https://github.com/fahimahamed1)
-
----
-
-## 🎨 Dark/Light Mode
-
-This README automatically switches between **Dark** and **Light** modes based on your system settings.
+- 📫 Reach me at: [Facebook](https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg) | [GitHub](https://github.com/fahimahamed1)
 
 ---
 
@@ -66,37 +60,6 @@ This README automatically switches between **Dark** and **Light** modes based on
 
 ---
 
-## 🧩 Live Activity (via Wakatime)
-
-[![Wakatime Stats](https://wakatime.com/badge/user/your_username_here.svg)](https://wakatime.com/@your_username_here)
-
----
-
-## 🚀 Top Projects Showcase
-
-<p align="center">
-  <a href="https://github.com/fahimahamed1/project1">
-    <img src="https://img.shields.io/badge/Project1-Deploying-green?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/fahimahamed1/project2">
-    <img src="https://img.shields.io/badge/Project2-In%20Progress-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌍 Localization
-
-এই রিডমি আমার দক্ষতা এবং প্রকল্পগুলোর সম্বন্ধে আরো জানার সুযোগ দেয়। আমাকে বাংলাদেশী গর্বিত গর্বিত মনে করি।
-
----
-
-## 🔗 Automatic Deployment Badge for Projects
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your_deployment_badge.svg)](https://app.netlify.com/sites/your_project_url)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -119,7 +82,7 @@ This README automatically switches between **Dark** and **Light** modes based on
 
 - 🌐 Portfolio: Coming Soon...
 - 📧 Email: <fahimahamed.dev@gmail.com> *(You can customize this)*
-- 🔵 Facebook: [facebook.com/devilsnigdho.00](https://www.facebook.com/devilsnigdho.00)
+- 🔵 Facebook: [facebook.com](https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg)
 - 🧑‍💻 GitHub: [fahimahamed1](https://github.com/fahimahamed1)
 
 ---
@@ -132,9 +95,9 @@ This README automatically switches between **Dark** and **Light** modes based on
 
 ## 💡 Fun Facts
 
-- 💣 I love breaking into systems (ethically 😉)
-- 🌌 I dream of building my own security toolset someday
-- 🧠 I never stop learning & experimenting
+- 💣 I love breaking into systems... *ethically* 😉
+- 🌌 I dream of creating my own security toolset someday.
+- 🧠 I’m constantly learning and experimenting in the tech world.
 
 ---
 
