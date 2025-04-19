@@ -1,10 +1,10 @@
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahim%20Ahamed&fontSize=50&fontColor=ffffff" alt="Banner" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=FAhim-Ahamed;It's+Not+Just+My+Name;It's+A+Brand">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahim%20Ahamed&fontSize=50&fontColor=ffffff" alt="Banner" />
+  </a>
 </p>
-
-# Fahim Ahamed - Cyber Security Enthusiast & Developer
-
 <p align="center">
   <img src="https://img.shields.io/badge/I%20Am%20A%20BANGLADESHI-PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 </p>
@@ -14,16 +14,6 @@
   Welcome To MY GiTHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
-
-<p align="center">
-  <img align="center" alt="line" src="line-1.svg">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=FAhim-Ahamed;It's+Not+Just+My+Name;It's+A+Brand">
-  </a>
-  <br>
-  <img align="center" alt="line" src="line-1.svg">
-</p>
 
 ---
 
