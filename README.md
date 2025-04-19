@@ -1,4 +1,4 @@
-<!-- Banner/Header -->
+![image](https://github.com/user-attachments/assets/bc066267-9779-4d67-bc5e-aca440941eb3)<!-- Banner/Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=Fhim&nbsp;Ahamed;It's+Not+Just+My+Name;It's+A+Brand"> 
@@ -81,9 +81,12 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
 ## 🔗 Let's Connect
 
 - 🌐 Portfolio: Coming Soon...
-- 📧 Email: <fahimahamed.dev@gmail.com> *(You can customize this)*
-- 🔵 Facebook: [facebook.com](https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg)
 - 🧑‍💻 GitHub: [fahimahamed1](https://github.com/fahimahamed1)
+- 📧 Email: <fahimahamed.dev@gmail.com>
+- 🔵 Facebook: [facebook.com](https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg)
+- 💬 Messenger: [message me](https://m.me/fahimahamed24)
+- 🐦 Twitter: [x.com](https://x.com/fahimahamed_?t=exLoyowGANBXmtu-VbsXaA&s=09)
+- 📸 Instagram: [Instegram.com](https://www.instagram.com/fahimahamed_10/?utm_source=qr&igsh=NXNhZjlhdWphODNy)
 
 ---
 
