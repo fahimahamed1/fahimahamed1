@@ -1,7 +1,7 @@
 <!-- Banner/Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=FAhim-Ahamed;It's+Not+Just+My+Name;It's+A+Brand">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&lines=Fhim&nbsp;Ahamed;It's+Not+Just+My+Name;It's+A+Brand"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:017e40&height=250&section=header&text=Fahim%20Ahamed&fontSize=50&fontColor=ffffff" alt="Banner" />
   </a>
 </p>
@@ -26,6 +26,12 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
 - 👯 Open to collaborate on secure apps & community security tools.
 - 💬 Ask me about Cyber Security, DevSecOps, or Full-Stack Development.
 - 📫 Reach me at: [Facebook](https://www.facebook.com/devilsnigdho.00) | [GitHub](https://github.com/fahimahamed1)
+
+---
+
+## 🎨 Dark/Light Mode
+
+This README automatically switches between **Dark** and **Light** modes based on your system settings.
 
 ---
 
@@ -57,6 +63,37 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🧩 Live Activity (via Wakatime)
+
+[![Wakatime Stats](https://wakatime.com/badge/user/your_username_here.svg)](https://wakatime.com/@your_username_here)
+
+---
+
+## 🚀 Top Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/fahimahamed1/project1">
+    <img src="https://img.shields.io/badge/Project1-Deploying-green?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/fahimahamed1/project2">
+    <img src="https://img.shields.io/badge/Project2-In%20Progress-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌍 Localization
+
+এই রিডমি আমার দক্ষতা এবং প্রকল্পগুলোর সম্বন্ধে আরো জানার সুযোগ দেয়। আমাকে বাংলাদেশী গর্বিত গর্বিত মনে করি।
+
+---
+
+## 🔗 Automatic Deployment Badge for Projects
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your_deployment_badge.svg)](https://app.netlify.com/sites/your_project_url)
 
 ---
 
