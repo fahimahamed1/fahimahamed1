@@ -1,13 +1,17 @@
 # Fahim Ahamed - Cyber Security Enthusiast & Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/I%20Am%20A%20BANGLADESHI%20PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square" alt="Bangladeshi Programmer">
-  <h3 align="center">
-    <img src="gif.gif" width="30" alt="GIF"> Welcome to my GitHub <img src="gif.gif" width="30" alt="GIF">
-  </h3>
-  <img align="center" alt="line" src="line-1.svg">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Fahim-Ahamed;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
-  <img align="center" alt="line" src="line-1.svg">
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+<h3 align="center">
+  <img src="gif.gif" width="30">
+ Welcome To MY GiTHub
+  <img src="gif.gif" width="30">
+</h3>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Fahim-Ahamed;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+ 
 </p>
 
 ## About Me
