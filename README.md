@@ -1,16 +1,21 @@
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
- 
+<p align="center">
+  <img src="badge.png" alt="I Am A BANGLADESHI PROGRAMMER">
+</p>
+
 <h3 align="center">
   <img src="gif.gif" width="30">
- Welcome To MY GiTHub
+  Welcome To MY GiTHub
   <img src="gif.gif" width="30">
 </h3>
- 
-<img align="center" alt="line" src="line-1.svg">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SHAMIM-CYBER;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
- 
+
+<p align="center">
+  <img src="line-1.svg" alt="Decorative Line">
 </p>
+
+<p align="center">
+  <img src="typing.svg" alt="Typing Effect: SHAMIM-CYBER - It's Not Just My Name, It's A Brand">
+</p>
+
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
