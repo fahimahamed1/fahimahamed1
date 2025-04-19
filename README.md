@@ -82,7 +82,7 @@ Hi! I'm **Fahim Ahamed**, a passionate **Cyber Security Enthusiast** and **Full-
 
 - 🌐 Portfolio: Coming Soon...
 - 🧑‍💻 GitHub: [fahimahamed1](https://github.com/fahimahamed1)
-- 📧 Email: <fahimahamed.dev@gmail.com>
+- 📧 Email: [Click to Email](mailto:fahimahamed402@gmail.com)
 - 🔵 Facebook: [facebook.com](https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg)
 - 💬 Messenger: [message me](https://m.me/fahimahamed24)
 - 🐦 Twitter: [x.com](https://x.com/fahimahamed_?t=exLoyowGANBXmtu-VbsXaA&s=09)
