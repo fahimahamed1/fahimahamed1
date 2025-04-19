@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
-  <img src="gif.gif" width="30">
+  <img src=".g" width="30">
  Welcome To MY GiTHub
   <img src=".gif" width="30">
 </h3>
