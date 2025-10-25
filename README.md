@@ -19,17 +19,23 @@
   </a>
 
   <!-- Stats & Social -->
-  <p>
-    <a>
-      <img src="https://komarev.com/ghpvc/?username=fahimahamed1&label=Profile+Views&color=017e40&style=flat-square" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/fahimahamed1?tab=followers">
-      <img src="https://img.shields.io/github/followers/fahimahamed1?label=Followers&logo=github&style=flat-square&color=017e40" alt="Followers" />
-    </a>
-    <a href="https://github.com/fahimahamed1?tab=repositories">
-      <img src="https://img.shields.io/github/stars/fahimahamed1?label=Stars&logo=github&style=flat-square&color=ff0000" alt="Stars" />
-    </a>
-  </p>
+<p>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=fahimahamed1&label=Profile+Views&color=017e40&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/fahimahamed1?tab=followers">
+    <img src="https://img.shields.io/github/followers/fahimahamed1?label=Followers&logo=github&style=flat-square&color=017e40" alt="Followers" />
+  </a>
+  <a href="https://github.com/fahimahamed1?tab=repositories">
+    <img src="https://img.shields.io/github/stars/fahimahamed1?label=Stars&logo=github&style=flat-square&color=ff0000" alt="Stars" />
+  </a>
+  <a href="https://github.com/sponsors/fahimahamed1">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  </a>
+  <a href="https://github.com/fahimahamed1">
+    <img src="https://img.shields.io/badge/Since-2023-017e40?style=flat-square" alt="Since 2023" />
+  </a>
+</p>
 
   <!-- Identity Badge -->
   <p>
