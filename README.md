@@ -8,10 +8,10 @@
 
 <!-- Introduction -->
 <div align="center">
-
+  
   ### Hey there, I'm
 
-  <a href="">
+  <a>
     <img 
       src="https://readme-typing-svg.herokuapp.com?color=%23ff0000&center=true&vCenter=true&width=500&lines=Fahim+Ahamed;Cybersecurity+%26+Reverse+Engineering;Learning+Every+Single+Day;Turning+Ideas+into+Reality" 
       alt="Typing SVG"
