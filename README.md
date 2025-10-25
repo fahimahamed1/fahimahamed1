@@ -20,7 +20,7 @@
 
   <!-- Stats & Social -->
   <p>
-    <a href="https://github.com/fahimahamed1">
+    <a>
       <img src="https://komarev.com/ghpvc/?username=fahimahamed1&label=Profile+Views&color=017e40&style=flat-square" alt="Profile Views" />
     </a>
     <a href="https://github.com/fahimahamed1?tab=followers">
