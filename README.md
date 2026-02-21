@@ -143,16 +143,16 @@ I'm always open to collaborating, sharing knowledge, and learning from others. F
   <a href="mailto:fahimahamed402@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/share/16SvQhdk3q/?mibextid=qi2Omg" target="_blank">
+  <a href="https://www.facebook.com/fahimahamed4" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://m.me/fahimahamed24" target="_blank">
+  <a href="https://m.me/fahimahamed4" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-%230065FF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
   <a href="https://x.com/fahimahamed_?t=exLoyowGANBXmtu-VbsXaA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fahimahamed_10/?utm_source=qr&igsh=NXNhZjlhdWphODNy" target="_blank">
+  <a href="https://www.instagram.com/fahimahamed_4/?utm_source=qr&igsh=NXNhZjlhdWphODNy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
